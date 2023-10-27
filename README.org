@@ -2,9 +2,8 @@
 
 Build system in Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/ruricolist/overlord.git   |
-| commit  | b2094cc  |
-| systems | overlord |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------|
+| source  | git:https://github.com/ruricolist/overlord.git |
+| commit  | 89c9881                                        |
+| systems | overlord                                       |
+|---------+------------------------------------------------|
