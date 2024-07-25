@@ -4,6 +4,6 @@ Build system in Common Lisp
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/ruricolist/overlord.git |
-| commit  | 89c9881                                        |
+| commit  | 213bae5                                        |
 | systems | overlord                                       |
 |---------+------------------------------------------------|
